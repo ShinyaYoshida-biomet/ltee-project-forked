@@ -36,6 +36,7 @@ Source: https://contributors.md/
 - JAWAHER BASALMA
 - Maitha Aldhaheri
 - Zaina Alhemeiri
+- Jenna Khanfar
 - Shamsah Aldhanhani
 - Yongjun Xiao
 - Haroun Adebakin
@@ -58,4 +59,3 @@ Source: https://contributors.md/
 - Yuqi Lei
 - Sevinch Rakhmon-Zoda
 - Hala Alsaleh
-- Jenna Khanfar
