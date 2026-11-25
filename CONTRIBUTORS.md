@@ -43,3 +43,4 @@ Source: https://contributors.md/
 - Aleksandr Matsun
 - Leonid Klarov
 - Vadim Gvozdev
+- Bethel Sisay
