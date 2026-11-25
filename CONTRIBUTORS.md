@@ -42,3 +42,4 @@ Source: https://contributors.md/
 - Zaina Alhemeiri
 - Aleksandr Matsun
 - Leonid Klarov
+- Vadim Gvozdev
