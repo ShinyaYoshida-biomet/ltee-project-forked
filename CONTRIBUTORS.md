@@ -46,3 +46,4 @@ Source: https://contributors.md/
 - Bethel Sisay
 - Michelle
 - Meera Alzaabi
+- Jierui Qu
