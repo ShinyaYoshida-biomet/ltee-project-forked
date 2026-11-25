@@ -48,3 +48,4 @@ Source: https://contributors.md/
 - Meera Alzaabi
 - Jierui Qu
 - Keqin Peng
+- Azamat Uzdenov, MBZUAI
