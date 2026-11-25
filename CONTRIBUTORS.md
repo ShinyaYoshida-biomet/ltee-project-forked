@@ -58,3 +58,4 @@ Source: https://contributors.md/
 - Yuqi Lei
 - Sevinch Rakhmon-Zoda
 - Hala Alsaleh
+- Jenna Khanfar
