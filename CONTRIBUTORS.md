@@ -44,3 +44,4 @@ Source: https://contributors.md/
 - Leonid Klarov
 - Vadim Gvozdev
 - Bethel Sisay
+- Michelle
