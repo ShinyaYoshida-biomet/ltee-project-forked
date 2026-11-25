@@ -34,6 +34,7 @@ Source: https://contributors.md/
 - Aziz Khan
 - Mohiraa Shafreen
 - JAWAHER BASALMA
+- Maitha Aldhaheri
 - Shamsah Aldhanhani
 - Haroun Adebakin
 - Cristina Correa Segade
