@@ -39,3 +39,4 @@ Source: https://contributors.md/
 - Haroun Adebakin
 - Cristina Correa Segade
 - Yusuf
+- Zaina Alhemeiri
