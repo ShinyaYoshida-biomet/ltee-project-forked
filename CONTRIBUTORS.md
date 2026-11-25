@@ -25,11 +25,14 @@ None of these make a person the author of everything. Together they keep the thi
 
 A contributors page is never really closed. There is always room for another line. That openness is the philosophy hiding in the name: value is not only in what you finish, but in what you make possible for someone you may never meet. Your part can be brief. The work can still carry it forward.
 
-*A name at the end is a small door left unlatched.*
+_A name at the end is a small door left unlatched._
 
 Source: https://contributors.md/
 
 ## List of contributors
 
 - Aziz Khan
+- Shamsah Aldhanhani
+- Haroun Adebakin
+- Cristina Correa Segade
 - Shinya Yoshida
