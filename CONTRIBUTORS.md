@@ -55,3 +55,4 @@ Source: https://contributors.md/
 - Mingzhi Chen
 - Hanzhe Liang
 - Haotian Tang
+- Yuqi Lei
