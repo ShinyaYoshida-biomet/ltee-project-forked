@@ -35,12 +35,12 @@ Source: https://contributors.md/
 - Mohiraa Shafreen
 - JAWAHER BASALMA
 - Maitha Aldhaheri
+- Zaina Alhemeiri
 - Shamsah Aldhanhani
 - Yongjun Xiao
 - Haroun Adebakin
 - Cristina Correa Segade
 - Yusuf
-- Zaina Alhemeiri
 - Aleksandr Matsun
 - Leonid Klarov
 - Vadim Gvozdev
