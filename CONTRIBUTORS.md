@@ -32,6 +32,6 @@ Source: https://contributors.md/
 ## List of contributors
 
 - Aziz Khan
-- 
+- Jenna Khanfar
 
 
