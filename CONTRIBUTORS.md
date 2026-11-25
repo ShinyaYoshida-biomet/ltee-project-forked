@@ -57,3 +57,4 @@ Source: https://contributors.md/
 - Haotian Tang
 - Yuqi Lei
 - Sevinch Rakhmon-Zoda
+- Hala Alsaleh
