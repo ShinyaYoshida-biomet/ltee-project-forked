@@ -33,5 +33,5 @@ Source: https://contributors.md/
 
 - Aziz Khan
 - Cristina Correa Segade
-
+- Mingzhi Chen
 
