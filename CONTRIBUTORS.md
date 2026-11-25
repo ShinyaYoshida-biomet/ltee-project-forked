@@ -30,8 +30,12 @@ A contributors page is never really closed. There is always room for another lin
 Source: https://contributors.md/
 
 ## List of contributors
-
 - Aziz Khan
 - Zaina Alhemeiri 
-
-
+- Maitha Aldhaheri 
+- Mohiraa Shafreen 
+- JAWAHER BASALMA 
+- Shamsah Aldhanhani
+- Haroun Adebakin
+- Cristina Correa Segade
+- Yusuf
