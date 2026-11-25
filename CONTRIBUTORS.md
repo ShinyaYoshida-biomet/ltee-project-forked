@@ -45,3 +45,4 @@ Source: https://contributors.md/
 - Vadim Gvozdev
 - Bethel Sisay
 - Michelle
+- Meera Alzaabi
