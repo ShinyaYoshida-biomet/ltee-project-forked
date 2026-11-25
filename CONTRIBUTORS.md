@@ -41,3 +41,4 @@ Source: https://contributors.md/
 - Yusuf
 - Zaina Alhemeiri
 - Aleksandr Matsun
+- Leonid Klarov
