@@ -31,6 +31,7 @@ Source: https://contributors.md/
 
 ## List of contributors
 - Aziz Khan
+- Maitha Aldhaheri 
 - Mohiraa Shafreen 
 - JAWAHER BASALMA 
 - Shamsah Aldhanhani
