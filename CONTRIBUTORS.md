@@ -54,3 +54,4 @@ Source: https://contributors.md/
 - Rui Wang
 - Mingzhi Chen
 - Hanzhe Liang
+- Haotian Tang
