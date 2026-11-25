@@ -56,3 +56,4 @@ Source: https://contributors.md/
 - Hanzhe Liang
 - Haotian Tang
 - Yuqi Lei
+- Sevinch Rakhmon-Zoda
