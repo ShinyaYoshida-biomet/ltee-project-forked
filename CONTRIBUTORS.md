@@ -52,3 +52,4 @@ Source: https://contributors.md/
 - Azamat Uzdenov, MBZUAI
 - Huifa Li
 - Rui Wang
+- Mingzhi Chen
