@@ -49,3 +49,4 @@ Source: https://contributors.md/
 - Jierui Qu
 - Keqin Peng
 - Azamat Uzdenov, MBZUAI
+- Huifa Li
