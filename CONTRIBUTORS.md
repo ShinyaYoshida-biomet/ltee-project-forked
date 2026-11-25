@@ -32,7 +32,31 @@ Source: https://contributors.md/
 ## List of contributors
 
 - Aziz Khan
+- Mohiraa Shafreen
+- JAWAHER BASALMA
+- Maitha Aldhaheri
+- Zaina Alhemeiri
+- Jenna Khanfar
 - Shamsah Aldhanhani
+- Yongjun Xiao
 - Haroun Adebakin
 - Cristina Correa Segade
 - Shinya Yoshida
+- Yusuf
+- Aleksandr Matsun
+- Leonid Klarov
+- Vadim Gvozdev
+- Bethel Sisay
+- Michelle
+- Meera Alzaabi
+- Jierui Qu
+- Keqin Peng
+- Azamat Uzdenov, MBZUAI
+- Huifa Li
+- Rui Wang
+- Mingzhi Chen
+- Hanzhe Liang
+- Haotian Tang
+- Yuqi Lei
+- Sevinch Rakhmon-Zoda
+- Hala Alsaleh
