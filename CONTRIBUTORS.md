@@ -51,3 +51,4 @@ Source: https://contributors.md/
 - Keqin Peng
 - Azamat Uzdenov, MBZUAI
 - Huifa Li
+- Rui Wang
