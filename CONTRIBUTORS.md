@@ -53,3 +53,4 @@ Source: https://contributors.md/
 - Huifa Li
 - Rui Wang
 - Mingzhi Chen
+- Hanzhe Liang
