@@ -36,6 +36,7 @@ Source: https://contributors.md/
 - JAWAHER BASALMA
 - Maitha Aldhaheri
 - Shamsah Aldhanhani
+- Yongjun Xiao
 - Haroun Adebakin
 - Cristina Correa Segade
 - Yusuf
