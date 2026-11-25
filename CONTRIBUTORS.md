@@ -33,5 +33,7 @@ Source: https://contributors.md/
 
 - Aziz Khan
 - Yongjun Xiao
+- Haroun Adebakin
+- Cristina Correa Segade
 
 
